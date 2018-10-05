@@ -7,7 +7,7 @@ git clone https://github.com/GoVanguard/IP-Blacklist-CSV-Generator.git
 ```
 
 ## Recommended Python Version
-legion supports Python 3.5+.
+Supports Python 3.5+.
 
 ## Dependencies
 * Requires git to be installed and set up with an environment path
