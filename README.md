@@ -20,6 +20,12 @@ python3.6 ipblacklist.py
 
 It will output the CSV files to the directory it is in.
 
+Bulk lists of IP addresses may be checked against the blacklist with ipFastBatch.py.
+```
+python3 ipFastBatch.py --list YOUR_IP_LIST.txt
+```
+Input is expected in a flat text file, with one IP address per line. A CSV file is created in the output folder.
+
 ## License
 This script is licensed under the GNU Affero General Public License v3.0.
 
